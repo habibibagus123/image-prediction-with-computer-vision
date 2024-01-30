@@ -1,5 +1,4 @@
 # Empowering Image Prediction
-November 2023
 
 # Overview
 Welcome to the "Empowering Image Prediction" project! This project is designed to predict images utilizing computer vision models and incorporating transfer learning techniques to enhance model performance.
